@@ -1,1 +1,2 @@
-# programming-problems
+# HackerRank solutions in java
+
